@@ -1,0 +1,4 @@
+baseURL = 'https://jawad-nsu.github.io/papermod_fariha_portfolio/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme= 'PaperMod'
