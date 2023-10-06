@@ -1,0 +1,61 @@
+baseURL: https://farihanoor.com/
+languageCode: en-us
+title: Fariha Noor
+theme: PaperMod
+
+params:
+  author: Fariha Noor
+  homeInfoParams:
+    Title: Hi there 👋, I'm Fariha
+    Content: >
+      Welcome to the **Cloud Playbook** 🎉
+
+      - This is a space where I will mostly be sharing about Linux, Networking, Docker, Kubernetes & Terraform 🙂
+
+  socialIcons:
+    - name: Github
+      url: 'https://github.com/farihanoor'
+    - name: LinkedIn
+      url: 'https://www.linkedin.com/in/fariha-noor/'
+    - name: Twitter
+      url: 'https://twitter.com/fanooriha'
+    - name: Rss
+      url: 'index.xml'
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 10
+    - identifier: work
+      name: Work
+      url: /work/
+      weight: 20
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+    - identifier: hireme
+      name: Hire Me !!
+      url: /hireme/
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 50
+    # - identifier: archives
+    #   name: Archives
+    #   url: /archives/
+    #   weight: 60
