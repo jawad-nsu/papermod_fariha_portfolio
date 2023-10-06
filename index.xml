@@ -16,5 +16,44 @@
       <description>This is a test page. This is test page</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://farihanoor.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://farihanoor.com/resume/</guid>
+      <description>This is the resume page
+Contact Me Want to have a professional chat with me? Feel free to drop a DM! :smile:
+These are the platforms you can find me on:
+Email: somraj.mle@gmail.com Linkedin: www.linkedin.com/in/jarmos Twitter: @Jarmosan Note: I’m more active on Twitter, so you’ll definitely want to DM me there.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://farihanoor.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://farihanoor.com/about/</guid>
+      <description>About Somraj Saha. This section details what he does &amp;amp; everything else you might want to know about him.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://farihanoor.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://farihanoor.com/contact/</guid>
+      <description>About Somraj Saha. This section details what he does &amp;amp; everything else you might want to know about him.</description>
+    </item>
+    
+    <item>
+      <title>Hire Me</title>
+      <link>https://farihanoor.com/hireme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://farihanoor.com/hireme/</guid>
+      <description>About hiring Fariha Noor. This section details what she can do for you &amp;amp; everything else you might want to know about her services.</description>
+    </item>
+    
   </channel>
 </rss>
