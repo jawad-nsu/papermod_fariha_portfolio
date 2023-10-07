@@ -10,7 +10,7 @@ params:
     Content: >
       Welcome to the **Cloud Playbook** 🎉
 
-      - This is a space where I will mostly be sharing about Linux, Networking, Docker, Kubernetes & Terraform 🙂
+      - This is a space where I will mostly be sharing about Linux, Networking, Git, Docker, Kubernetes, Terraform, Anisble 🙂
 
   socialIcons:
     - name: Github
