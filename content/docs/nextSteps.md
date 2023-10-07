@@ -6,7 +6,7 @@ draft = false
 
 ### Roadmap: What courses, certification and personal projects I'm planning to complete this winter
 
-I'm learning in public and sharing my progress as I go along. I will be sharing DevOps courses, certifications and personal projects and challenges I face along the way. I've drawn up a 8 months study plan. I'll also share my side hustle Freelancing on Upwork as well. How much I earn each month, what projects I'm doing, how I'm winning jobs etc. Stay tuned, if you would like to see my journey from learning to securing an Cloud Engineer job.
+I'm learning in public and sharing my progress as I go along. I will be sharing DevOps courses, certifications and personal projects and challenges I face along the way. I've drawn up a 8 months study plan. I'll also share my side hustle freelancing on Upwork as well. How much I earn each month, what projects I'm doing, how I'm winning jobs etc. Stay tuned, if you would like to see my journey from learning to securing an Cloud Engineer job.
 
 | Title                    | Description                                                          | Date of Completion  | Status |
 | ------------------------ | -------------------------------------------------------------------- | ------------------- | ------ |
