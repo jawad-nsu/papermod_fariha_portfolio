@@ -8,8 +8,8 @@ summary: Summery about work
 
 ## Portfolio Projects
 
-- Docker projects (Upcomming ⏳)
-- Kubernetes projects (Upcomming ⏳)
+- Docker projects (Upcoming ⏳)
+- Kubernetes projects (Upcoming ⏳)
 - Terraform projects (Working on it 🚀)
 
 ## Freelancing Projects
