@@ -25,7 +25,7 @@ I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Au
 
 ### Education
 
-- M.Sc in Quality Systems & Engineering, [Concordia University][Concordia] {:target="\_blank"} , Montreal, QC, Canada.
+- M.Sc in Quality Systems & Engineering, [Concordia University][Concordia] , Montreal, QC, Canada.
 
   - CGPA 3.4 out of 4.0
   - Grade 85%
