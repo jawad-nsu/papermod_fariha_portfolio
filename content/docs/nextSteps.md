@@ -14,12 +14,12 @@ I'm learning in public and sharing my progress as I go along. I will be sharing 
 | Linux Certification      | [Linux Essentials certification][linux essentials cert]              | October 31st, 2023  | ⏳     |
 | Linux Projects           | Projects / Notes with screenshots / how to guide blogpost            | October 31st, 2023  | ⏳     |
 | Networking Course - 1    | [Bits and Bytes of Computer Networking][PlBn]                        | November 15th, 2023 | ⏳     |
-| Networking Course - 2    | [Cisco CCNA 200-301 – The Complete Guide to Getting Certified][plCa] | December 15th, 2024 | ⏳     |
-| Networking Certification | [Cisco CCNA][plCn]                                                   | December 15th, 2024 | ⏳     |
-| Networking Projects      | Projects / Notes / how to guide blogpost                             | December 15th, 2024 | ⏳     |
-| Git Course               | [GitLab CI: Pipelines, CI/CD and DevOps for Beginners][PlGl]         | December 21st, 2024 | ⏳     |
+| Networking Course - 2    | [Cisco CCNA 200-301 – The Complete Guide to Getting Certified][plCa] | December 15th, 2023 | ⏳     |
+| Networking Certification | [Cisco CCNA][plCn]                                                   | December 15th, 2023 | ⏳     |
+| Networking Projects      | Projects / Notes / how to guide blogpost                             | December 15th, 2023 | ⏳     |
+| Git Course               | [GitLab CI: Pipelines, CI/CD and DevOps for Beginners][PlGl]         | December 21st, 2023 | ⏳     |
 | Git Certification        | [GitLab Certified Git Associate][PlGc]                               | TBA                 | ⏳     |
-| Git Project              | Projects / Notes of / how to guide blogpost                          | December 21st, 2024 | ⏳     |
+| Git Project              | Projects / Notes of / how to guide blogpost                          | December 21st, 2023 | ⏳     |
 | Docker Course            | [Docker Course: Docker Mastery: with Kubernetes + Swarm ][PlDs]      | January 21st, 2024  | ⏳     |
 | Docker Certification     | [Docker Certified Associate][PlDm]                                   | January 21st, 2024  | ⏳     |
 | Docker Projects          | 3 Docker Projects                                                    | January 28th, 2024  | ⏳     |
