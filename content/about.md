@@ -10,7 +10,7 @@ summary:
 
 Hi there! 👋 I'm Fariha.
 
-I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Automation, Platform Engineering and Site Reliability Engineering. Currently, I'm pursuing my Masters in Quality Systems and Engineering. After I graduate from Concordia University, I'm planning to work full time as as Cloud Engineer. Right now, I'm open to working part time or as a [freelancer](/hireme). I share my daily learning here on **Cloud Playbook**. Follow me on my [**journey**](../docs/nextsteps) toward becoming a Cloud Engineer.
+I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Automation, Platform Engineering and Site Reliability Engineering. Currently, I'm pursuing my Masters in Quality Systems and Engineering. After I graduate from Concordia University, I'm planning no working full time as as Cloud Engineer. Right now, I'm open to working part time or as a [freelancer](/hireme). I share my daily learning here on **Cloud Playbook**. Follow me on my [**journey**](../docs/nextsteps) toward becoming a Cloud Engineer.
 
 ### Experience
 
@@ -25,31 +25,32 @@ I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Au
 
 ### Education
 
-- M.Sc in Quality Systems & Engineering, [Concordia University][Concordia], Montreal, QC, Canada.
+- M.Sc in Quality Systems & Engineering, [Concordia University][Concordia] {:target="\_blank"} , Montreal, QC, Canada.
 
-  - CGPA 3.4 out of 4.
-  - Grade 92%
+  - CGPA 3.4 out of 4.0
+  - Grade 85%
 
 - B.Sc in Computer Science & Engineering, [North South University][nsu], Dhaka, Bangladesh.
 
   - Awarded **Merit based Scholarship**
   - Graduated with **Summa cum laude**
-  - CGPA 3.9 out of 4.
+  - CGPA 3.9 out of 4.0
   - Grade 92%
 
 - High School Certificate, [Ideal School & College][ideal], Dhaka, Bangladesh.
 
   - Awarded Education board **general scholarship**
-  - CGPA 5.00/5.00
+  - CGPA 5.0/5.0
 
 - Secondary School Certificate, [Ideal School & College][ideal], Dhaka, Bangladesh.
   - Awarded Bangladesh Medha bikash society award
-  - CGPA 5.00/5.00
+  - CGPA 5.0/5.0
 
 ### Certifications
 
 - [AWS Certified Cloud Practitioner][aws]
 - [HashiCorp Certified: Terraform Associate (003)][terraform]
+- [Graduate Leadership Development Program][GLDP]
 
 ### Skills
 
@@ -62,6 +63,10 @@ I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Au
 - Ansible
 - Software Testing
 - Project Management Tools (Trello, Jira, ServiceNow)
+
+### Open Source Contribution
+
+- k8 (Upcoming ⏳)
 
 ### Languages
 
@@ -95,3 +100,4 @@ These are the platforms you can find me on:
 [bell]: https://business.bell.ca/shop/medium-large/cloud
 [aws]: https://www.credly.com/badges/36f73864-86ee-435c-a600-3ff5985d9a72/public_url
 [terraform]: https://www.credly.com/badges/32dfd161-f263-4a8b-bd32-fdcbcab21c65/public_url
+[GLDP]: https://www.concordia.ca/content/dam/concordia/offices/gradproskills/certificate/GPLD147W2023FarihaNoor.pdf
