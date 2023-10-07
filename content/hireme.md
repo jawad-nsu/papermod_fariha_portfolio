@@ -12,7 +12,7 @@ I'm open to working as a Freelancer, Contractor, Part time employee or intern. I
 
 ### Contact Me
 
-Want to have a professional chat with me? Feel free to drop a DM! :smile:
+Want to have a professional chat with me? Feel free to drop a DM! 😄
 
 These are the platforms you can find me on:
 
@@ -21,7 +21,7 @@ These are the platforms you can find me on:
 - Twitter: [@fanooriha][twitter]
 - Upwork: [fariha][upwork]
 
-**Note**: I'm more active on Twitter, so you'll definitely want to DM me there.
+**Note**: I'm more active on LinkedIn, so you'll definitely want to DM me there.
 
 <!-- Reference Links -->
 
