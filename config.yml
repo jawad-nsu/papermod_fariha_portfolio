@@ -8,9 +8,9 @@ params:
   homeInfoParams:
     Title: Hi there 👋, I'm Fariha
     Content: >
-      Welcome to the **Cloud Playbook** 🎉
+      Welcome to  **Cloud Playbook** 🎉
 
-      - This is a space where I will mostly be sharing about Linux, Networking, Git, Docker, Kubernetes, Terraform, Anisble 🙂
+      - Here, I will be mostly sharing about Linux, Networking, Git, Docker, Kubernetes, Terraform, Ansible 🙂
 
   socialIcons:
     - name: Github
