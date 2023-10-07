@@ -10,7 +10,7 @@ params:
     Content: >
       Welcome to  **Cloud Playbook** 🎉
 
-      - Here, I will be mostly sharing about Linux, Networking, Git, Docker, Kubernetes, Terraform, Ansible 🙂
+      - Here, I will mostly be sharing about Linux, Networking, Git, Docker, Kubernetes, Terraform, Ansible 🙂
 
   socialIcons:
     - name: Github
