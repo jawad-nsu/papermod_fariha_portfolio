@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://farihanoor.com/docs/nextsteps/</loc>
+    <lastmod>2023-09-29T17:09:08-04:00</lastmod>
+  </url><url>
     <loc>https://farihanoor.com/docs/</loc>
     <lastmod>2023-09-29T17:09:08-04:00</lastmod>
   </url><url>
     <loc>https://farihanoor.com/</loc>
     <lastmod>2023-09-29T17:09:08-04:00</lastmod>
   </url><url>
-    <loc>https://farihanoor.com/docs/test/</loc>
+    <loc>https://farihanoor.com/docs/terraformcert/</loc>
     <lastmod>2023-09-29T17:09:08-04:00</lastmod>
   </url><url>
-    <loc>https://farihanoor.com/resume/</loc>
-    <priority>0</priority>
+    <loc>https://farihanoor.com/docs/test/</loc>
+    <lastmod>2023-09-29T17:09:08-04:00</lastmod>
   </url><url>
     <loc>https://farihanoor.com/about/</loc>
   </url><url>
