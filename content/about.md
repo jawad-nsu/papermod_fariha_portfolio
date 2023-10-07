@@ -10,7 +10,7 @@ summary:
 
 Hi there! 👋 I'm Fariha.
 
-I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Automation, Platform Engineering and Site Reliability Engineering. Currently, I'm pursuing my Masters in Quality Systems and Engineering. After I graduate from Concordia University, I'm planning on working full time as as Cloud Engineer. Right now, I'm open to working part time or as a [freelancer](/hireme). I share my daily learning here on **Cloud Playbook**. Follow me on my [**journey**](../docs/nextsteps) toward becoming a Cloud Engineer.
+I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Automation, Platform Engineering and Site Reliability Engineering. Currently, I'm pursuing my Masters in Quality Systems and Engineering. After I graduate from Concordia University, I'm planning on working full time as a Cloud Engineer. Right now, I'm open to working part time or as a [freelancer](/hireme). I share my daily learning here on **Cloud Playbook**. Follow me on my [**journey**](../docs/nextsteps) toward becoming a Cloud Engineer.
 
 ### Experience
 
