@@ -8,47 +8,90 @@ summary:
   might want to know about him.
 ---
 
-Hi there! :wave: I'm Somraj Saha (_you can call me Jarmos_).
+Hi there! 👋 I'm Fariha.
 
-I work as an independent Software Engineer for a living. Over the years I picked
-up knowledge in Python & Machine Learning (_mostly due to my academic background
-in Economics_). And only recently did I start dabbling around with frontend
-technologies for the Web.
+I'm passionate about DevOps, GitOps, Cloud, Security, Infrastructure as Code, Automation, Platform Engineering and Site Reliability Engineering. Currently, I'm pursuing my Masters in Quality Systems and Engineering. After I graduate from Concordia University, I'm planning to work full time as as Cloud Engineer. Right now, I'm open to working part time or as a [freelancer](/hireme). I share my daily learning here on **Cloud Playbook**. Follow me on my [**journey**](../docs/nextsteps) toward becoming a Cloud Engineer.
 
-I've listed my tech stack on the
-[Technology Stack](../services/#technology-stack) section of my Services page.
-So, in case you would like to hire me, that information might prove useful for
-you! :heart:
+### Experience
 
-Besides programming, I'm also an amateur Technical Writer. My [blog](../blog/)
-is one source where you can find most of my up-to-date written content. But,
-often there's a book or two I keep working on. If you would like to stay updated
-on their progress, you might want to follow me on Twitter.
+- Cloud Engineer Intern, [Bell Canada][bell], Montreal, QC.
 
-But when I'm on the [Terminal][terminal emulator], you can find me on Steam
-probably playing a game or two. If you would like to join me in a game, feel
-free to drop a message. You can DM me on Discord(**Jarmos#8937**) and/or on my
-[Steam][steam profile](**Jarmos-san**).
+  - Software Testing
+  - Cloud Automation
+
+- Lab Officer [North South University][nsu], Dhaka, Bangladesh.
+  - Teach lab classes, carry out experiments
+  - Evaluate student experiments, exam copy
+
+### Education
+
+- M.Sc in Quality Systems & Engineering, [Concordia University][Concordia], Montreal, QC, Canada.
+
+  - CGPA 3.4 out of 4.
+  - Grade 92%
+
+- B.Sc in Computer Science & Engineering, [North South University][nsu], Dhaka, Bangladesh.
+
+  - Awarded **Merit based Scholarship**
+  - Graduated with **Summa cum laude**
+  - CGPA 3.9 out of 4.
+  - Grade 92%
+
+- High School Certificate, [Ideal School & College][ideal], Dhaka, Bangladesh.
+
+  - Awarded Education board **general scholarship**
+  - CGPA 5.00/5.00
+
+- Secondary School Certificate, [Ideal School & College][ideal], Dhaka, Bangladesh.
+  - Awarded Bangladesh Medha bikash society award
+  - CGPA 5.00/5.00
+
+### Certifications
+
+- [AWS Certified Cloud Practitioner][aws]
+- [HashiCorp Certified: Terraform Associate (003)][terraform]
+
+### Skills
+
+- Linux
+- Networking
+- Git
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Software Testing
+- Project Management Tools (Trello, Jira, ServiceNow)
+
+### Languages
+
+- English (Native)
+- French (Conversational)
+- Bengali (Native)
 
 ### Contact Me
 
-Want to have a professional chat with me? Feel free to drop a DM! :smile:
+Want to have a professional chat with me? Feel free to drop a DM! 😄
 
 These are the platforms you can find me on:
 
-- Email: somraj.mle@gmail.com
-- Linkedin: [www.linkedin.com/in/jarmos][linkedin]
-- Twitter: [@Jarmosan][twitter]
+- Email: fariha04noor@gmail.com
+- Linkedin: [linkedin.com/in/fariha-noor][linkedin]
+- Twitter: [@fanooriha][twitter]
+- Upwork: [fariha][upwork]
 
-**Note**: I'm more active on Twitter, so you'll definitely want to DM me there.
+**Note**: I'm more active on LinkedIn, so you'll definitely want to DM me there.
 
 <!-- Reference Links -->
 
-[newsletter]: https://jarmos.ck.page/newsletter
-[twitter]: https://twitter.com/Jarmosan
-[linkedin]: https://www.linkedin.com/in/jarmos
-[email]: mailto:somraj.mle@gmail.com
-[github]: https://github.com/Jarmos-san
-[blog source code]: https://github.com/Jarmos-san/blog
-[steam profile]: https://steamcommunity.com/id/jarmos-san/
-[terminal emulator]: https://en.wikipedia.org/wiki/Terminal_emulator
+[twitter]: https://twitter.com/fanooriha
+[linkedin]: https://www.linkedin.com/in/fariha-noor/
+[email]: mailto:fariha04noor@gmail.com
+[github]: https://github.com/farihanoor
+[upwork]: https://www.upwork.com/freelancers/~01f87a8e4fb01f239a
+[nsu]: http://www.northsouth.edu/
+[concordia]: https://www.concordia.ca/
+[ideal]: https://iscm.edu.bd/
+[bell]: https://business.bell.ca/shop/medium-large/cloud
+[aws]: https://www.credly.com/badges/36f73864-86ee-435c-a600-3ff5985d9a72/public_url
+[terraform]: https://www.credly.com/badges/32dfd161-f263-4a8b-bd32-fdcbcab21c65/public_url
