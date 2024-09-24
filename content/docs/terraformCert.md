@@ -6,4 +6,4 @@ draft = false
 
 ### How I passed the Terraform Certification, Study Guide, Tips, Notes.
 
-Hang tight, I will be uploading my notes on Terraform exam very soon ⏳.
+Hang tight, I will be uploading my notes on Terraform exam very soon ⏳
